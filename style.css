@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: none;
+    box-sizing: border-box;
+    font-family: 'Mooli', sans-serif;
+}
+
+.tituloPrincipal {
+
+    color: hotpink;
+
+}
+
+.imgProduto {
+    width: 150px;
+}
+
+header {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+main {
+    margin-top: 100px;
+}
+
+body {
+    background-color: rgb(138, 97, 97);
+}
